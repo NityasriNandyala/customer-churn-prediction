@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: customer_churn_prediction
+Version: 1.0.0
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: streamlit
+Requires-Dist: joblib
+Dynamic: requires-dist
